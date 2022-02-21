@@ -1,5 +1,6 @@
 # DTMF Audacity Filtercurve Equalizer
-With this filter curve or the filter curve generator the sound can be filtered in such a way that the DTMF tones are highlighted to be able to decode them more easily.
+
+With this filter curve or the filter curve generator for the filter curve equalizer the sound can be filtered in such a way that the DTMF tones are highlighted to be able to decode them more easily. Different EQ curve presets are available for download. 
 
 I use https://play.google.com/store/apps/details?id=com.audiocommunication 
 This App gave the best DTMF tone decodings results compared with a few other free apps years ago. If you know better apps, please share, especially because this app is so ad-infested.
